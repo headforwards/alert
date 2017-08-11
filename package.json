@@ -1,0 +1,22 @@
+{
+  "name": "backbone.ui.alert",
+  "version": "0.6.2",
+  "description": "A notification system to display errors, warnings, confirmations and notifications to the user",
+  "main": "assets/js/backbone.ui.alert.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscars1997/alert.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscars1997/alert/issues"
+  },
+  "homepage": "https://github.com/oscars1997/alert#readme"
+}
